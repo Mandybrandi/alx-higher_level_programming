@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 word = "Holberton"
 word_first_3 = f"{word[:3]}"
 word_last_2 = f"{word[-2:]}"
